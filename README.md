@@ -7,21 +7,16 @@
 
 - :school: Soy Ingeniero Químico de profesión.
 - :woman_student: Actualmente estoy realizando un Bootcamp de programación y AWS Cloud.
-- :computer: Me gusta aprender nuevas tecnologías. Tengo conocimiento en HTML, CSS, Javascript, PHP, Python, SQL, y también tengo experiencia trabajando como analista de datos con Power BI.
-
+- :computer: Me gusta aprender nuevas tecnologías.
+-           : Mi color favorito es el morado.
+- hobbies    : Toco un instrumento de música clasica.
 
 ## :mailbox: Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elegarmi/">
+  <a href="https://www.linkedin.com/in/andreina-arias/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &emsp;
-  <a href="https://www.detallinos.com/">
-    <img width="40px" src="https://icon-library.com/images/www-icon-png/www-icon-png-5.jpg" alt="Peronal project"/>
-  </a>
-  &emsp;
-   </a>
 </p>
 
 <br>
@@ -30,16 +25,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,html,java,jest,js,jquery,laravel,nodejs,php,sass,ts,vite,vue" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,figma,idea,ai,ps,postman,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,php,sql,javascript,vscode,python,power bi"/>
   </a>
 </p>
 
 <br/>
 
 
-Contacto: mi Linkedin es https://www.linkedin.com/in/andreina-arias/
 
 
