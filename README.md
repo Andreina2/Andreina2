@@ -8,10 +8,10 @@
 - :school: Soy Ingeniero Químico de profesión.
 - :woman_student: Actualmente estoy realizando un Bootcamp de programación y AWS Cloud.
 - :computer: Me gusta aprender nuevas tecnologías.
--           : Mi color favorito es el morado.
-- hobbies    : Toco un instrumento de música clasica.
+- :rainbow: Mi color favorito es el morado.
+- :violin: Toco un instrumento de música clasica.
 
-## :mailbox: Connect with me
+## :mailbox: Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreina-arias/">
@@ -21,7 +21,7 @@
 
 <br>
 
-## <img alt="hammer-wrench" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> My Skills
+## <img alt="hammer-wrench" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Conocimientos en
 
 <p align="center">
   <a href="https://skillicons.dev">
