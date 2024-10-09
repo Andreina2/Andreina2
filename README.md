@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hola mi nombre es Andreina Arias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Hola mi nombre es Andreina Arias <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"
 </h1>
 
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> Sobre mi
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 - :school: Soy Ingeniero Químico de profesión.
 - :woman_student: Actualmente estoy realizando un Bootcamp de programación y AWS Cloud.
@@ -30,6 +30,9 @@
 </p>
 
 <br/>
+
+
+
 
 
 
