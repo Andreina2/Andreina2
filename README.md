@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hola mi nombre es Andreina Arias <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"
+   Andreina Arias
 </h1>
 
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> Sobre mi
