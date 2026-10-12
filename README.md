@@ -7,7 +7,7 @@
 - 🌱 Aprendiendo a diario: modelado de datos, DAX avanzado y SQL
 - 🎻 Cuando no estoy con datos, toco un instrumento clásico.
 
-Tengo repos de cursos y ejercicios antiguos que siguen disponibles en mi perfil, pero también está mi portfolio de analista de datos.
+Tengo repos de cursos y ejercicios disponibles en mi perfil, y mi portfolio de analista de datos.
 
 ### 📫 Contáctame
 
